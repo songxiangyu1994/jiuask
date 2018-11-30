@@ -3,10 +3,10 @@
   <!--社区简介-->
   <view class="intro">
     <view>
-      <image class="logo" src="/images/logo.jpg" background-size="cover"></image>
+      <image class="logo" src="/images/logo.png"          background-size="cover"></image>
     </view>
     <view>
-      <text class="desc">久问问答，免费的技术问答社区，快速提问，快速响应。</text>
+      <text class="desc">Gnibbuq的问答项目正在创建，你可以期待一下。</text>
     </view>
   </view>
   <!-- 登录按钮 -->
@@ -17,14 +17,14 @@
   <!--社区规则-->
   <view class="content">
     <view class="content-title">
-    社区规则
+    说明
       <view class="title-icon"/>
     </view>
     <view class="content-text">
-      <view>1，久问社区只接受高质量问答，提问和回复前请仔细思考。</view>
-      <view>2，每回答一个问题可以获取1个经验值。</view>
-      <view>3，每通过你分享的链接注册一个新用户，获取5个经验值。</view>
-      <view>4，月度经验值最高的用户可以任选一本100以内的技术书籍，请联系久一索取。</view>
+      <view>1，Gnibbuq工作室将提供注册服务。</view>
+      <view>2，问答成功后会增加分值。</view>
+      <view>3，可以在分享你的链接时可增加积分。</view>
+      <view>4，可进行好友对战。</view>
     </view>
   </view>
 </scroll-view>
